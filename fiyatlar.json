@@ -1,144 +1,312 @@
 {
   "surum": 1,
-  "tarih": "2026-11-20",
+  "tarih": "2026-11-21",
   "kaynak": "Zincir marketlerin internet satış fiyatları; yaklaşık değerdir",
   "urunler": {
-    "pirinc": {
+    "sogan": {
+      "birim": "kg",
+      "gram": 1000,
+      "fiyat": 41.95,
+      "n": 1
+    },
+    "domates": {
+      "birim": "kg",
+      "gram": 1000,
+      "fiyat": 77.95,
+      "n": 1
+    },
+    "biber": {
+      "birim": "kg",
+      "gram": 1000,
+      "fiyat": 108.5,
+      "n": 1
+    },
+    "patates": {
+      "birim": "kg",
+      "gram": 1000,
+      "fiyat": 62.65,
+      "n": 1
+    },
+    "havuc": {
+      "birim": "kg",
+      "gram": 1000,
+      "fiyat": 78.95,
+      "n": 1
+    },
+    "patlican": {
+      "birim": "kg",
+      "gram": 1000,
+      "fiyat": 141.73,
+      "n": 1
+    },
+    "kabak": {
+      "birim": "kg",
+      "gram": 1000,
+      "fiyat": 127.8,
+      "n": 1
+    },
+    "ispanak": {
+      "birim": "kg",
+      "gram": 1000,
+      "fiyat": 131.01,
+      "n": 1
+    },
+    "tfasulye": {
+      "birim": "kg",
+      "gram": 1000,
+      "fiyat": 241.5,
+      "n": 1
+    },
+    "salatalik": {
+      "birim": "kg",
+      "gram": 1000,
+      "fiyat": 115.5,
+      "n": 1
+    },
+    "marul": {
+      "birim": "adet",
+      "gram": 400,
+      "fiyat": 80.22,
+      "n": 1
+    },
+    "limon": {
+      "birim": "kg",
+      "gram": 1000,
+      "fiyat": 51.95,
+      "n": 1
+    },
+    "maydanoz": {
+      "birim": "adet",
+      "gram": 60,
+      "fiyat": 34.95,
+      "n": 1
+    },
+    "pirasa": {
       "birim": "kg",
       "gram": 1000,
       "fiyat": 89.95,
       "n": 1
     },
-    "bulgur": {
+    "karnabahar": {
       "birim": "kg",
       "gram": 1000,
-      "fiyat": 34,
+      "fiyat": 83.95,
       "n": 1
     },
-    "incebulgur": {
+    "brokoli": {
       "birim": "kg",
       "gram": 1000,
-      "fiyat": 34,
+      "fiyat": 136.5,
       "n": 1
     },
     "kmercimek": {
       "birim": "kg",
       "gram": 1000,
-      "fiyat": 89.95,
+      "fiyat": 128.81,
       "n": 1
     },
     "ymercimek": {
       "birim": "kg",
       "gram": 1000,
-      "fiyat": 54,
+      "fiyat": 128.67,
       "n": 1
     },
     "kfasulye": {
       "birim": "kg",
       "gram": 1000,
-      "fiyat": 89.95,
+      "fiyat": 170.24,
       "n": 1
     },
     "nohut": {
       "birim": "kg",
       "gram": 1000,
-      "fiyat": 62.95,
+      "fiyat": 134.78,
+      "n": 1
+    },
+    "bulgur": {
+      "birim": "kg",
+      "gram": 1000,
+      "fiyat": 67.08,
+      "n": 1
+    },
+    "pirinc": {
+      "birim": "kg",
+      "gram": 1000,
+      "fiyat": 145.45,
       "n": 1
     },
     "makarna": {
       "birim": "paket",
       "gram": 500,
-      "fiyat": 20.75,
+      "fiyat": 35.63,
       "n": 1
     },
     "sehriye": {
       "birim": "paket",
       "gram": 500,
-      "fiyat": 20.75,
-      "n": 1
-    },
-    "telsehriye": {
-      "birim": "paket",
-      "gram": 500,
-      "fiyat": 20.75,
-      "n": 1
-    },
-    "eriste": {
-      "birim": "paket",
-      "gram": 500,
-      "fiyat": 28.25,
-      "n": 1
-    },
-    "un": {
-      "birim": "paket",
-      "gram": 2000,
-      "fiyat": 68.5,
+      "fiyat": 37.97,
       "n": 1
     },
     "misirunu": {
       "birim": "paket",
       "gram": 250,
-      "fiyat": 12.95,
+      "fiyat": 24.45,
       "n": 1
     },
-    "galeta": {
+    "tursu": {
       "birim": "paket",
-      "gram": 250,
-      "fiyat": 26.75,
+      "gram": 680,
+      "fiyat": 143.34,
       "n": 1
     },
-    "seker": {
+    "tavukbut": {
       "birim": "kg",
       "gram": 1000,
-      "fiyat": 54.95,
+      "fiyat": 126.93,
+      "n": 1
+    },
+    "tavukgogus": {
+      "birim": "kg",
+      "gram": 1000,
+      "fiyat": 224.93,
+      "n": 1
+    },
+    "kiyma": {
+      "birim": "kg",
+      "gram": 1000,
+      "fiyat": 943.72,
+      "n": 1
+    },
+    "kusbasi": {
+      "birim": "kg",
+      "gram": 1000,
+      "fiyat": 854.91,
+      "n": 1
+    },
+    "antrikot": {
+      "birim": "kg",
+      "gram": 1000,
+      "fiyat": 1865.3,
+      "n": 1
+    },
+    "somon": {
+      "birim": "kg",
+      "gram": 1000,
+      "fiyat": 999.9,
+      "n": 1
+    },
+    "yumurta": {
+      "birim": "adet",
+      "gram": 60,
+      "fiyat": 7.49,
+      "n": 1
+    },
+    "yogurt": {
+      "birim": "kg",
+      "gram": 1000,
+      "fiyat": 105.02,
+      "n": 1
+    },
+    "peynir": {
+      "birim": "kg",
+      "gram": 1000,
+      "fiyat": 379.44,
+      "n": 1
+    },
+    "tereyagi": {
+      "birim": "paket",
+      "gram": 250,
+      "fiyat": 233.92,
+      "n": 1
+    },
+    "siviyag": {
+      "birim": "lt",
+      "gram": 920,
+      "fiyat": 174.62,
+      "n": 1
+    },
+    "zeytinyagi": {
+      "birim": "lt",
+      "gram": 915,
+      "fiyat": 368.65,
+      "n": 1
+    },
+    "salca": {
+      "birim": "paket",
+      "gram": 830,
+      "fiyat": 87.55,
+      "n": 1
+    },
+    "un": {
+      "birim": "kg",
+      "gram": 1000,
+      "fiyat": 50.72,
       "n": 1
     },
     "tuz": {
       "birim": "paket",
       "gram": 750,
-      "fiyat": 12.5,
+      "fiyat": 28.84,
       "n": 1
     },
     "karabiber": {
       "birim": "paket",
       "gram": 75,
-      "fiyat": 63.5,
-      "n": 1
-    },
-    "nane": {
-      "birim": "paket",
-      "gram": 30,
-      "fiyat": 24.5,
-      "n": 1
-    },
-    "kimyon": {
-      "birim": "paket",
-      "gram": 75,
-      "fiyat": 40.95,
-      "n": 1
-    },
-    "kekik": {
-      "birim": "paket",
-      "gram": 25,
-      "fiyat": 29.95,
+      "fiyat": 125.9,
       "n": 1
     },
     "pulbiber": {
       "birim": "paket",
       "gram": 85,
-      "fiyat": 52,
+      "fiyat": 88.3,
+      "n": 1
+    },
+    "tozbiber": {
+      "birim": "paket",
+      "gram": 70,
+      "fiyat": 70.06,
+      "n": 1
+    },
+    "kimyon": {
+      "birim": "paket",
+      "gram": 75,
+      "fiyat": 77.11,
+      "n": 1
+    },
+    "kekik": {
+      "birim": "paket",
+      "gram": 25,
+      "fiyat": 71.44,
+      "n": 1
+    },
+    "nane": {
+      "birim": "paket",
+      "gram": 30,
+      "fiyat": 43.48,
       "n": 1
     },
     "sumak": {
       "birim": "paket",
       "gram": 70,
-      "fiyat": 78.95,
+      "fiyat": 92.52,
+      "n": 1
+    },
+    "yenibahar": {
+      "birim": "paket",
+      "gram": 40,
+      "fiyat": 94.95,
+      "n": 1
+    },
+    "tarcin": {
+      "birim": "paket",
+      "gram": 45,
+      "fiyat": 60.07,
       "n": 1
     },
     "zerdecal": {
       "birim": "paket",
       "gram": 70,
-      "fiyat": 79.95,
+      "fiyat": 80.19,
       "n": 1
     },
     "defne": {
@@ -147,148 +315,196 @@
       "fiyat": 32.95,
       "n": 1
     },
-    "tarcin": {
-      "birim": "paket",
-      "gram": 45,
-      "fiyat": 74.95,
-      "n": 1
-    },
-    "salca": {
-      "birim": "paket",
-      "gram": 830,
-      "fiyat": 68.95,
-      "n": 1
-    },
-    "bibersalca": {
-      "birim": "paket",
-      "gram": 700,
-      "fiyat": 97.95,
-      "n": 1
-    },
-    "siviyag": {
-      "birim": "lt",
-      "gram": 920,
-      "fiyat": 125.95,
-      "n": 1
-    },
-    "zeytinyagi": {
-      "birim": "lt",
-      "gram": 915,
-      "fiyat": 269.5,
-      "n": 1
-    },
     "sirke": {
-      "birim": "paket",
-      "gram": 760,
-      "fiyat": 31.95,
+      "birim": "lt",
+      "gram": 1010,
+      "fiyat": 128.61,
       "n": 1
     },
     "nareksisi": {
       "birim": "paket",
       "gram": 325,
-      "fiyat": 129.95,
+      "fiyat": 208.95,
       "n": 1
     },
-    "tursu": {
+    "seker": {
+      "birim": "kg",
+      "gram": 1000,
+      "fiyat": 58.7,
+      "n": 1
+    },
+    "bibersalca": {
       "birim": "paket",
-      "gram": 680,
-      "fiyat": 148.95,
+      "gram": 700,
+      "fiyat": 145.95,
+      "n": 1
+    },
+    "nisasta": {
+      "birim": "paket",
+      "gram": 200,
+      "fiyat": 42.24,
+      "n": 1
+    },
+    "kapya": {
+      "birim": "kg",
+      "gram": 1000,
+      "fiyat": 167.95,
+      "n": 1
+    },
+    "dolmabiber": {
+      "birim": "kg",
+      "gram": 1000,
+      "fiyat": 79.95,
+      "n": 1
+    },
+    "lahana": {
+      "birim": "kg",
+      "gram": 1000,
+      "fiyat": 31.5,
+      "n": 1
+    },
+    "kereviz": {
+      "birim": "kg",
+      "gram": 1000,
+      "fiyat": 73.5,
+      "n": 1
+    },
+    "pazi": {
+      "birim": "adet",
+      "gram": 300,
+      "fiyat": 57.95,
+      "n": 1
+    },
+    "mantar": {
+      "birim": "paket",
+      "gram": 400,
+      "fiyat": 104.95,
+      "n": 1
+    },
+    "yesilsogan": {
+      "birim": "adet",
+      "gram": 100,
+      "fiyat": 49.5,
+      "n": 1
+    },
+    "dereotu": {
+      "birim": "adet",
+      "gram": 50,
+      "fiyat": 38.95,
+      "n": 1
+    },
+    "balkabagi": {
+      "birim": "kg",
+      "gram": 1000,
+      "fiyat": 81.32,
+      "n": 1
+    },
+    "roka": {
+      "birim": "adet",
+      "gram": 80,
+      "fiyat": 39.95,
+      "n": 1
+    },
+    "enginar": {
+      "birim": "adet",
+      "gram": 80,
+      "fiyat": 94.5,
+      "n": 1
+    },
+    "asmayapragi": {
+      "birim": "paket",
+      "gram": 500,
+      "fiyat": 276.16,
+      "n": 1
+    },
+    "barbunya": {
+      "birim": "kg",
+      "gram": 1000,
+      "fiyat": 218.93,
+      "n": 1
+    },
+    "eriste": {
+      "birim": "paket",
+      "gram": 500,
+      "fiyat": 39.95,
+      "n": 1
+    },
+    "kuskus": {
+      "birim": "paket",
+      "gram": 500,
+      "fiyat": 40.6,
+      "n": 1
+    },
+    "telsehriye": {
+      "birim": "paket",
+      "gram": 500,
+      "fiyat": 35.37,
+      "n": 1
+    },
+    "incebulgur": {
+      "birim": "kg",
+      "gram": 1000,
+      "fiyat": 67.96,
+      "n": 1
+    },
+    "yufka": {
+      "birim": "paket",
+      "gram": 500,
+      "fiyat": 149.65,
+      "n": 1
+    },
+    "galeta": {
+      "birim": "paket",
+      "gram": 250,
+      "fiyat": 33.35,
+      "n": 1
+    },
+    "ekmek": {
+      "birim": "adet",
+      "gram": 200,
+      "fiyat": 20,
+      "n": 1
+    },
+    "ceviz": {
+      "birim": "paket",
+      "gram": 150,
+      "fiyat": 146.92,
+      "n": 1
+    },
+    "kusuzumu": {
+      "birim": "paket",
+      "gram": 40,
+      "fiyat": 78.46,
+      "n": 1
+    },
+    "fistik": {
+      "birim": "paket",
+      "gram": 25,
+      "fiyat": 183.65,
+      "n": 1
+    },
+    "zeytin": {
+      "birim": "kg",
+      "gram": 1000,
+      "fiyat": 312.23,
       "n": 1
     },
     "tonbaligi": {
       "birim": "paket",
       "gram": 320,
-      "fiyat": 147.95,
-      "n": 1
-    },
-    "zeytin": {
-      "birim": "paket",
-      "gram": 500,
-      "fiyat": 110,
-      "n": 1
-    },
-    "sut": {
-      "birim": "lt",
-      "gram": 1030,
-      "fiyat": 52.75,
-      "n": 1
-    },
-    "yumurta": {
-      "birim": "adet",
-      "gram": 60,
-      "fiyat": 5.99,
-      "n": 1
-    },
-    "yogurt": {
-      "birim": "paket",
-      "gram": 1500,
-      "fiyat": 107.5,
-      "n": 1
-    },
-    "peynir": {
-      "birim": "kg",
-      "gram": 1000,
-      "fiyat": 279.95,
-      "n": 1
-    },
-    "kasar": {
-      "birim": "paket",
-      "gram": 700,
-      "fiyat": 335,
-      "n": 1
-    },
-    "lor": {
-      "birim": "paket",
-      "gram": 500,
-      "fiyat": 74.9,
-      "n": 1
-    },
-    "tereyagi": {
-      "birim": "paket",
-      "gram": 250,
-      "fiyat": 155.9,
-      "n": 1
-    },
-    "krema": {
-      "birim": "paket",
-      "gram": 200,
-      "fiyat": 66.5,
-      "n": 1
-    },
-    "tavukgogus": {
-      "birim": "kg",
-      "gram": 1000,
-      "fiyat": 199.9,
+      "fiyat": 267.95,
       "n": 1
     },
     "tavukkanat": {
       "birim": "kg",
       "gram": 1000,
-      "fiyat": 159.9,
+      "fiyat": 253.27,
       "n": 1
     },
     "buttuntavuk": {
       "birim": "kg",
       "gram": 1000,
-      "fiyat": 79.9,
-      "n": 1
-    },
-    "kiyma": {
-      "birim": "paket",
-      "gram": 400,
-      "fiyat": 339.95,
-      "n": 1
-    },
-    "kusbasi": {
-      "birim": "paket",
-      "gram": 400,
-      "fiyat": 360.5,
-      "n": 1
-    },
-    "antrikot": {
-      "birim": "kg",
-      "gram": 1000,
-      "fiyat": 1699.95,
+      "fiyat": 124.94,
       "n": 1
     },
     "kuzukusbasi": {
@@ -310,27 +526,21 @@
       "n": 1
     },
     "sucuk": {
-      "birim": "paket",
-      "gram": 500,
-      "fiyat": 475,
-      "n": 1
-    },
-    "somon": {
       "birim": "kg",
       "gram": 1000,
-      "fiyat": 999.9,
+      "fiyat": 1117.22,
       "n": 1
     },
     "levrek": {
       "birim": "kg",
       "gram": 1000,
-      "fiyat": 499.9,
+      "fiyat": 549.9,
       "n": 1
     },
     "cipura": {
       "birim": "kg",
       "gram": 1000,
-      "fiyat": 399.9,
+      "fiyat": 433.23,
       "n": 1
     },
     "istavrit": {
@@ -339,76 +549,40 @@
       "fiyat": 279.9,
       "n": 1
     },
-    "domates": {
+    "alabalik": {
       "birim": "kg",
       "gram": 1000,
-      "fiyat": 65.95,
+      "fiyat": 329.9,
       "n": 1
     },
-    "salatalik": {
-      "birim": "kg",
-      "gram": 1000,
-      "fiyat": 104.95,
+    "sut": {
+      "birim": "lt",
+      "gram": 1030,
+      "fiyat": 73.52,
       "n": 1
     },
-    "havuc": {
-      "birim": "kg",
-      "gram": 1000,
-      "fiyat": 78.95,
+    "kasar": {
+      "birim": "paket",
+      "gram": 600,
+      "fiyat": 463.78,
       "n": 1
     },
-    "biber": {
-      "birim": "kg",
-      "gram": 1000,
-      "fiyat": 94.5,
+    "krema": {
+      "birim": "paket",
+      "gram": 200,
+      "fiyat": 86.54,
       "n": 1
     },
-    "kapya": {
-      "birim": "kg",
-      "gram": 1000,
-      "fiyat": 167.95,
+    "lor": {
+      "birim": "paket",
+      "gram": 500,
+      "fiyat": 150.95,
       "n": 1
     },
-    "dolmabiber": {
+    "yarma": {
       "birim": "kg",
       "gram": 1000,
-      "fiyat": 91.5,
-      "n": 1
-    },
-    "patlican": {
-      "birim": "kg",
-      "gram": 1000,
-      "fiyat": 125.95,
-      "n": 1
-    },
-    "kabak": {
-      "birim": "kg",
-      "gram": 1000,
-      "fiyat": 104.95,
-      "n": 1
-    },
-    "karnabahar": {
-      "birim": "kg",
-      "gram": 1000,
-      "fiyat": 83.95,
-      "n": 1
-    },
-    "brokoli": {
-      "birim": "kg",
-      "gram": 1000,
-      "fiyat": 136.5,
-      "n": 1
-    },
-    "kereviz": {
-      "birim": "kg",
-      "gram": 1000,
-      "fiyat": 83.95,
-      "n": 1
-    },
-    "lahana": {
-      "birim": "kg",
-      "gram": 1000,
-      "fiyat": 31.5,
+      "fiyat": 81.28,
       "n": 1
     },
     "kirmizilahana": {
@@ -417,100 +591,16 @@
       "fiyat": 52.5,
       "n": 1
     },
-    "tfasulye": {
-      "birim": "kg",
-      "gram": 1000,
-      "fiyat": 79.95,
-      "n": 1
-    },
-    "sogan": {
-      "birim": "kg",
-      "gram": 1000,
-      "fiyat": 41.95,
-      "n": 1
-    },
-    "patates": {
-      "birim": "kg",
-      "gram": 1000,
-      "fiyat": 45.95,
-      "n": 1
-    },
-    "limon": {
-      "birim": "kg",
-      "gram": 1000,
-      "fiyat": 49.95,
-      "n": 1
-    },
     "sarimsak": {
       "birim": "kg",
       "gram": 1000,
       "fiyat": 241.5,
       "n": 1
     },
-    "ispanak": {
-      "birim": "kg",
-      "gram": 1000,
-      "fiyat": 104.95,
-      "n": 1
-    },
-    "pirasa": {
-      "birim": "kg",
-      "gram": 1000,
-      "fiyat": 89.95,
-      "n": 1
-    },
-    "mantar": {
-      "birim": "paket",
-      "gram": 400,
-      "fiyat": 104.95,
-      "n": 1
-    },
-    "maydanoz": {
-      "birim": "adet",
-      "gram": 60,
-      "fiyat": 34.95,
-      "n": 1
-    },
-    "roka": {
-      "birim": "adet",
-      "gram": 80,
-      "fiyat": 39.95,
-      "n": 1
-    },
-    "yesilsogan": {
-      "birim": "adet",
-      "gram": 100,
-      "fiyat": 49.5,
-      "n": 1
-    },
-    "dereotu": {
-      "birim": "adet",
-      "gram": 50,
-      "fiyat": 38.95,
-      "n": 1
-    },
-    "marul": {
-      "birim": "adet",
-      "gram": 400,
-      "fiyat": 59.95,
-      "n": 1
-    },
     "semizotu": {
       "birim": "adet",
       "gram": 250,
       "fiyat": 73.5,
-      "n": 1
-    },
-    "pazi": {
-      "birim": "adet",
-      "gram": 300,
-      "fiyat": 57.95,
-      "n": 1
-    },
-    "enginar": {
-      "birim": "adet",
-      "gram": 80,
-      "fiyat": 94.5,
       "n": 1
     }
   }
