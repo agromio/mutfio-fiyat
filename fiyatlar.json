@@ -1,7 +1,7 @@
 {
   "surum": 1,
   "tarih": "2026-11-20",
-  "kaynak": "Bir zincir marketin internet satış fiyatları; yaklaşık değerdir",
+  "kaynak": "Zincir marketlerin internet satış fiyatları; yaklaşık değerdir",
   "urunler": {
     "pirinc": {
       "birim": "kg",
@@ -253,12 +253,6 @@
       "birim": "paket",
       "gram": 200,
       "fiyat": 66.5,
-      "n": 1
-    },
-    "tavukbut": {
-      "birim": "kg",
-      "gram": 1000,
-      "fiyat": 79.9,
       "n": 1
     },
     "tavukgogus": {
